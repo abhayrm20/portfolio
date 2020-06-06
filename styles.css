@@ -1,0 +1,34 @@
+body {
+  background-color: : #E8EDDF;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  padding: 20px 30px 15px 10px;
+  margin: 20px 30px 15px 10px;
+  border-width: 1px;
+  border-style: solid;
+}
+h3 {
+  color: #333533;
+}
+
+button {
+  margin: 20px;
+}
+
+div.hero {
+  background-color: #F5CB5C;
+  text-align: center;
+}
+
+div.career, div.hobbies {
+  background-color: #C5D3CC;
+}
+
+img {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
